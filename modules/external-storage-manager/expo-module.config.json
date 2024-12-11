@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "apple",
+    "android",
+    "web"
+  ],
+  "apple": {
+    "modules": [
+      "ExternalStorageManagerModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.externalstoragemanager.ExternalStorageManagerModule"
+    ]
+  }
+}
